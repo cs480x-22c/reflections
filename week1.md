@@ -1,5 +1,5 @@
 ![image1](https://github.com/vlm-wpi/reflections/blob/85c506050245651d0efb39b444f296784314fc33/Screen%20Shot%202022-01-12%20at%2010.54.18%20PM.png)
-![image2](Screen Shot 2022-01-12 at 10.54.30 PM.png)
+![image2](https://github.com/vlm-wpi/reflections/blob/dc30cb2d37874c34a94812825c5a0fe2f0524a9e/Screen%20Shot%202022-01-12%20at%2010.54.30%20PM.png)
 ![image3](Screen Shot 2022-01-12 at 10.54.41 PM.png)
 
 https://fivethirtyeight.com/features/how-omicron-has-reshaped-sports/ 
