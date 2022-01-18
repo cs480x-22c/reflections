@@ -1,4 +1,4 @@
-# The Bachelor and Data
+# :rose: The Bachelor and Data :rose:
 [The Instagram Post](https://www.instagram.com/p/CYm5qbFPXJR/).
 Here is a interview if you're interested in learning about Suzana's works [here](https://mashable.com/article/bachelordata-bachelor-nation-interview).
 
