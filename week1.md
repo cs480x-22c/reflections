@@ -1,3 +1,5 @@
+[Link to visualization](http://duelingdata.blogspot.com/2016/01/the-beatles.html)
+
 Adam McCann's "An Analysis of the Beatles?" visualization displays songwriting data
 about The Beatles discography, specifically the songwriting habits of each member.
 It uses color scaling in combination with a scatterplot and a pie chart to link
