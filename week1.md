@@ -11,7 +11,7 @@ a scale using saturation or luminance instead.
 The "Which Songwriter Has the Largest Vocabulary" section is fascinating to look at, but 
 a bit unintuitive. A song's position on the y-axis is determined by how many unique words
 the song has, but the visualization does not define what a "unique" word is. The songs seem
-to be organized on the x-axis (within each individual songwriter's chart) in alphabetically. 
+to be organized on the x-axis (within each individual songwriter's chart) alphabetically. 
 This information is not very meaningful, and I think it would make more sense to
 instead organize it by the release date of the song, which might reveal some more 
 interesting trends in the data.
