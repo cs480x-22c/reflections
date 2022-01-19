@@ -1,4 +1,5 @@
-(/DataVisualization-Classical.jpg)
+![Circus of Western](/DataVisualization-Classical.jpg)
+
 For my week one reflection, I looked at [Visualizing Harmony in Western Art Music by Kelly Schroer](http://kellyschroer.com/harmony.html).
 In this visualization, Schroer uses a circas graph to represent harmonies throughout the history of western music.
 Each color represents a note and the connections represent notes played at the same time with thickness being the number of times the notes are played.
