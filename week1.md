@@ -9,4 +9,5 @@ For instance in the key of C, C and E could represent both the I chord or the vi
 These serve different harmonic functions, but in the current diagram, they both chords are represented by the same connection.
 Rather than focusing on one piece, perhaps the author should analyze a multitude of pieces from a time period all converted to Roman numerals with the thickness representing the percent of total.
 Additionally, from watching the videos included of theses pieces, some of the pieces are actually multiple smaller sections. For instance, the Trio section of Mozart's Sonatina is actually in the key of F which may alter the data. Sechs Kleine Klavierstucke is actually six smaller pieces.
-My main contentions with this visualization is the data source used. As a visualization method, the circas graph definitely catches my attention and it would be interesting to see with more robust data.
+My main contentions with this visualization is the data source used. 
+As a visualization method, the circas graph definitely catches my attention and it would be interesting to see with more robust data.
