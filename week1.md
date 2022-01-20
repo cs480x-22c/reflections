@@ -14,5 +14,5 @@ The visualization is great for multiple reasons
 -	I also like how in each section the numerical percentage is shown. This is very helpful if two blobs look very similar in size. 
 -	There is an interactive feature on the left-hand side that allows the user to view the animation in a slow, medium, and fast pace. 
 -	And there is a very cute description under the clock that describes what the majority of Americans are doing at that time in a very user-friendly matter. 
-o	“The day is in full swing with work or housework. Stores and services are open so people can run errands, and they take various forms of transportation to get there.”
+    - “The day is in full swing with work or housework. Stores and services are open so people can run errands, and they take various forms of transportation to get there.”
 I think this visualization is easy to understand, fun to watch, and very accommodating to the different ways that people like to analyze data. 
