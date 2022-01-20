@@ -1,6 +1,7 @@
 # Reflection 1 - Gender of the Subject
 
 ![Gender of the Subject Graphs](https://external-preview.redd.it/cgZcHO-GpdSP9XSsHalxr8vtx4iYQdqMxOmiFC1bYGs.png?width=960&crop=smart&auto=webp&s=d11b404bbec57ba3801b58bc368e55515457a7c2)
+https://www.reddit.com/r/dataisbeautiful/comments/s5ozev/gender_of_the_subject_he_or_she_of_some_verbs_in/
 
 The image above contains graphs which convey which pronouns (she/him) have been associated with key words and phrases over time.
 I thought this data was particularly interesting because women's roles used to be more constrained to the home to do tasks like cooking,
