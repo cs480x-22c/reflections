@@ -1,4 +1,7 @@
-Citation:
+Article: https://eagereyes.org/eagereyestv/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb
+
+Cooresponding Video: 
+Kosara, Robert. "Florence Nightingale's Famous Rose Chart (aka "Coxcomb")." *YouTube*, uploaded by eagereyes - Robert Kosara, 11 May 2021, https://www.youtube.com/watch?v=JZh8tUy_bnM.
 
 Summary/Why it's important:
 Florence Nightingale, considered the mother of nursing
