@@ -1,4 +1,5 @@
-Article: https://eagereyes.org/eagereyestv/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb
+Article: 
+Kosara, Robert. "New video: Florence Nightingale’s Famous Rose Chart (aka “Coxcomb”)." *eagereyes*, 11 May 2021, https://eagereyes.org/eagereyestv/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb. Accessed 20 Jan. 2022.
 
 Cooresponding Video: 
 Kosara, Robert. "Florence Nightingale's Famous Rose Chart (aka "Coxcomb")." *YouTube*, uploaded by eagereyes - Robert Kosara, 11 May 2021, https://www.youtube.com/watch?v=JZh8tUy_bnM.
