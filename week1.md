@@ -1,4 +1,4 @@
-#Reflection 1 - Gender of the Subject
+# Reflection 1 - Gender of the Subject
 
 ![Gender of the Subject Graphs](https://external-preview.redd.it/cgZcHO-GpdSP9XSsHalxr8vtx4iYQdqMxOmiFC1bYGs.png?width=960&crop=smart&auto=webp&s=d11b404bbec57ba3801b58bc368e55515457a7c2)
 
