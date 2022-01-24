@@ -5,4 +5,4 @@ according to the data it does. This chart shows different chunks of times that i
 almost always sell within the first time window, which is labeled hold, meaning I must be doing something wrong. I learned a lot from this and it will definitely be helpful in 
 the future.
 
-![image1](https://github.com/HolidayMB/reflections/blob/master/shoes.PNG)
+![image1](https://github.com/HolidayMB/reflections/blob/master/shoes.png)
