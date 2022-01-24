@@ -24,3 +24,4 @@ Here’s some of the downfalls I saw:
 - I also think that the rectangles were a good idea, but because of the size of the text and how small some of these categories get respectively, the text goes over some     rectangles and it all becomes a little congested and hard to read. 
 
 A suggestion could maybe be using a numbered key or legend for the smaller areas. Or maybe using a layered pyramid for the parent categories because that would still show the general progression of where the budget is allocated. 
+ 
