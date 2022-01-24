@@ -1,4 +1,7 @@
-file:///C:/Users/sophi/AppData/Local/Temp/Rar$EXa15828.29419/DepressingVisualization.html
+
+![image](https://user-images.githubusercontent.com/64103447/150832830-17f6e8fa-9024-4e0b-8c71-d1bc8d6e8206.png)
+![image](https://user-images.githubusercontent.com/64103447/150832928-9fa8fa6e-96cd-4603-8c1a-a9d5b31d226f.png)
+
 
 source : https://www.reddit.com/r/dataisbeautiful/comments/saeju0/i_pulled_historical_data_from_19732019_calculated/?utm_source=share&utm_medium=web2x&context=3
 
@@ -12,4 +15,5 @@ The essential takeaway is that a few generations ago, someone born at the time c
 
 
 
-This was kind of cynical, here's a kitten : https://i.redd.it/9fb9cnqu5md81.jpg
+This was kind of cynical, here's a kitten : ![cat](https://user-images.githubusercontent.com/64103447/150832287-4dd4d714-d760-4976-a175-4b193a383d20.png)
+
