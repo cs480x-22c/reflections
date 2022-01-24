@@ -6,7 +6,7 @@ I chose an data visualization showing the New England Patriots(An American Footb
 There are two parts of the visualization. 
 The top part shows year to year data for the patriots, while the bottom shows an accumilation of statistics during the time span.
 I like the use of colors to represent when they made it to the super bowl, won the super bowl, or failed to make it.
-I do not agree that there is no index to tell the viewer what each color represents, as some people might not be as familiar with wich superbowls they won/lost.
+I do not agree that there is no index to tell the viewer what each color represents, as some people might not be as familiar with which superbowls they won/lost.
 This makes it seem like it is intended for a specific target audience of patriots fans or intense football fans.
 I like the choice of colors they used, as it symbolic of the team colors (red, gray, and blue).
 I think the boarders on the boxes for each year are underutilized, since they can be used to represent a statistic while conserving space.
