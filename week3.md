@@ -11,3 +11,4 @@ the sections on the bar can also be clicked to reveal the type of tree. When the
 This visualization is exploratory in the the user can discover more information about the types of trees in NYC. 
 
 I think the layered horizontal bar graph type thing works very well here because it allows the user to easlily compare the types of trees. I also enjoy the colors picked out, and how it uses opacity in a tasteful way. All in all love this visualization. 
+
