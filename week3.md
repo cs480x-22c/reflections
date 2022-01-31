@@ -1,5 +1,3 @@
-[![Whale Avoiding Ships](vis/whales.png)](https://twitter.com/i/status/1356703048270249985)
-
-Click on the picture to view the vis.
+![Whale Avoiding Ships](vis/whales.gif)
 
 For my week 3 reflection, I decided to look at a visualization of a blue whale avoiding ships in the Chilean Gulf of Ancud. This visualization represented ships moving as red dots with a trail and the whale was represented as a blue dot with a trail. The data was collected over the course of a week.over the course of 1 week. I initially was drawn by how easy it was to see the story that was being told by this figure. What was really interesting was that in the original twitter post, there was no description of what the red dots or tail meant, but I was still able to get the meaning. The tails were confusing though, because it was hard to tell whether the wale was avoiding the ship or the path the ship was on. By having the colors red and blue, it really differentiated between what was good and what was bad. I also felt that by showing a single whale it highlighted the struggle it faces with multiple ships. Additionally by including the tails, it really felt like the whale was trapped. The entire figure made me feel emotionally trapped even though it was only abstract representation of a whale.
