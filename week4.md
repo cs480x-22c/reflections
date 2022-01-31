@@ -16,4 +16,5 @@ It is the first time I have come across the idea of binning in viz. Additionally
 thought process that I feel like I personally need to come to understand. 
 
 
+This visualization isnt that impressive, but for some reason the articles thought process was the first time the viz developement process started to really click. 
 
