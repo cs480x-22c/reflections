@@ -1,4 +1,6 @@
-![caption](WordVis.png)
+
+
+![WordVisagain](https://user-images.githubusercontent.com/64103447/151839674-171aceb6-3c92-4746-bbe0-ec1013ad05eb.png)
 
 
 source : https://www.reddit.com/r/dataisbeautiful/
