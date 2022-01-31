@@ -9,9 +9,9 @@ https://observablehq.com/@observablehq/plot
 This is an article detailing the open source js lib Observable Plot, and while that is basic at its core
 the article is a really cool jumping off point for all things tabular data. 
 
-Manny of the hyperlinks elaborate in more detail the over arching ideas behind the library. 
+Manny of the hyperlinks elaborate in more detail the over arching ideas behind the library. The Plot Cheatsheets PDF is especially helpful. 
 
-The part of this article that I found most interesting was the logical decisions made when attempting to increase the value the visualizations are giving.
+The part of this article that I found most interesting was the logical decisions made when attempting to increase the value the visualizations are bringing.
 It is the first time I have come across the idea of binning in viz. Additionally, the empohasis on readability throughout the graphs iterations is exactly the
 thought process that I feel like I personally need to come to understand. 
 
