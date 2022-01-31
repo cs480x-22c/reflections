@@ -1,4 +1,4 @@
-# Reflections for week 1
+# Reflections for week 4
 
 I have been following data vis communities on Twitter (as we discussed in class). I recently saw this library made to Julia programming language that gives yu some cool 3D graphs.
 
