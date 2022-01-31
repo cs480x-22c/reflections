@@ -1,0 +1,3 @@
+This week I found a cool visualization showing how and where players meet in csgo matches. Data from 100 random matches was used, and the player positions were plotted as the round progressed. From both sides, you can see where players like to go, and how that affects where they meet. It's cool that you can see players holding angles or responding to information given by their teammates. It's also helpful to understand timings for when to execute or expect an enemy player to show up when pushing. The video doesn't even have that many views, I think something like this could be beneficial for pros or people who want to get better if the data was perhaps taken from higher-ranked or pro games.
+
+Link to video: https://www.youtube.com/watch?v=Psyr388fltw
