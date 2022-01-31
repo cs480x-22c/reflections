@@ -1,4 +1,5 @@
-![Visualization](https://twitter.com/alenka_gucek/status/1487151427831095297/photo/1)
+![Visualization](https://pbs.twimg.com/media/FKNpfSRXIAIFxvs?format=jpg&name=4096x4096)
+[Tweet](https://twitter.com/alenka_gucek/status/1487151427831095297)
 
 This visualization was made by Alenka Gucke and Martina Zunica for a journal data viz challenge. This visualization shows data about asynchronous communication for one week. This paticular visualization was made in figma. 
 
