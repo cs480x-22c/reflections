@@ -1,4 +1,4 @@
-
+![caption](WordVis.png)
 
 
 source : https://www.reddit.com/r/dataisbeautiful/
