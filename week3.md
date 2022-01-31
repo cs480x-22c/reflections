@@ -9,4 +9,6 @@ I think there are a few bad things with this visualization:
 - Second, there are no units of measurement on the plots, making it difficult to interpret some plots.
 - There is no legend. It's difficult to understand what the colors refer to.
 
+[https://dash.gallery/dash-avs-explorer/](https://dash.gallery/dash-avs-explorer/)
+
 ![Autonomous driving data visualization with Dash](img/autonomous-driving.png)
