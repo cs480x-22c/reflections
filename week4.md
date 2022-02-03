@@ -1,5 +1,5 @@
 
-Link to the 4 interactive data visualazations: https://www.nytimes.com/interactive/2022/02/02/upshot/tom-brady-career-stats.html
+Link to the 4 interactive data visualizations: https://www.nytimes.com/interactive/2022/02/02/upshot/tom-brady-career-stats.html
 
 This article was posted after the retirment of Tom Brady, an American Football Player.
 The article begins with briefly describing that the purpose of the article is to compare his achievements with other players at his position.
