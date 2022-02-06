@@ -1,1 +1,6 @@
 ![Average Height and Weight per Olympic Sport](/images/Reflection4.png)
+
+https://www.reddit.com/r/dataisbeautiful/comments/sm20ir/relation_between_height_and_weight_per_olympic/
+---
+
+This graph is from the dataisbeautiful subreddit made by the user nickkuiper11. It shows the average weight and height per sport in the Olympics. The distinct colors represent what season each sport competes in. I liked how they made the summer season orange and the winter season blue. I associate orange with heat and blue with cold, so the color scheme makes a lot of sense to me. I also liked how they included variance with the size of the circles. However, I think the variance can be skewed in some sports because they are including both women and men that play in each sport. Women tend to be shorter and lighter than men, and vice versa, so sports that have both women and men competing will have a larger variance than those that only have one gender. For example, rhythmic gymnastics and synchronized swimming tend to only have female competitors, so the variance is small. Whereas volleyball has a higher variance because they have men's volleyball and women’s volleyball. I would like to see the variance based on gender and I bet it would result in smaller variances. 
