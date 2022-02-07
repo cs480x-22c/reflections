@@ -1,0 +1,1 @@
+![Picture of the netflix visualization](netflix-insights-2017-eclipse.png)
