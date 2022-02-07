@@ -1,0 +1,5 @@
+![miro](img/Taxonomy_of_ideas-3.png)
+
+This is a visualization of a chart and words to describe ideas are clustered according to their categories. For example, incredible, brilliant, great, smart, fantastic, etc. are clustered together. But this visualization used different coloring and text fonts to show how different the words are. For example, "dumb" and the "worst" are much different words when it comes to describing ideas. "The worst" shows a poor conceptual structure and shows the idea is dysfunctional. But dumb is more of a loose idea not as dysfunctional as "the worst" idea.
+
+I think this is a very interesting data visualization because usually when you see words bunched together in different clusters you think the words are all meant to interpret the same. But since the visualization included labels on the axises, such as dysfunctional/functional, this allows the audience to grasp the differences in these idea descriptive words. 
