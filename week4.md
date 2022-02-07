@@ -5,15 +5,8 @@ This vis [1] is a bar race chart dispalying the "Most Popular Programming Langua
 
 Moving on: There are an incredible number of bar chart races located on the internet, both embedded in websites and uploaded in video format on sites such as YouTube. It's by no means a unique or novel idea for a vis: so what makes this one significant? To me, the importance of this vis lies in what the data is representing. In the field of CS, proficiency in commonly-used languages is essential, and knowing more languages means having more work opportunities. Since the data represented in this vis tracks Google Trends searches of a language using "Tutorial" as one of the keywords, it is a great representation of the current popularity and rate at which different languages are growing, with the most important being the top 3: Python, Java, and JavaScript. Staying on top of trends in the field of CS can be difficult since the field is always growing and changing with new innovations and discoveries added onto a massive personal and professional user-base, so I'm always interested when it comes to data visualizations representing these trends.
 
+If there's anything I wish this bar chart did better it'd be one of two things:
+I wish there was an option to adjust the speed at which the bar chart race plays. In this isntance, it seems to crawl a bit slowly, but maybe some users would prefer that speed. Thus, adding an option to adjsut the speed would allow the user to change the playback speed of the animated chart to their liking.
+I also wish the chart allowed the selected on certain dates so that a user could view the relative popularity of programming languages on that day, as well as a pause function.
 
 Note: Apologies for the poor grammar. I am currently very sleep-deprived.
-
-
-
-Drawbacks:
-Metric may not check out:
-
-"The PYPL PopularitY of Programming Language Index is created by analyzing how often language tutorials are searched on Google : the more a language tutorial is searched, the more popular the language is assumed to be. It is a leading indicator. The raw data comes from Google Trends.
-
-Is very slow, would like coverage sped up OR the implementation of a fast forward option
-Only captures the top % of languages. There are few enough programming languages that this is OKAY, but a bar chart race wouldn't work for a lot of other things due to this reason
