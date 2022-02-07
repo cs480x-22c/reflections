@@ -7,6 +7,6 @@ Moving on: There are an incredible number of bar chart races located on the inte
 
 If there's anything I wish this bar chart did better it'd be one of two things:
 I wish there was an option to adjust the speed at which the bar chart race plays. In this isntance, it seems to crawl a bit slowly, but maybe some users would prefer that speed. Thus, adding an option to adjsut the speed would allow the user to change the playback speed of the animated chart to their liking.
-I also wish the chart allowed the selected on certain dates so that a user could view the relative popularity of programming languages on that day, as well as a pause function.
+I also wish the chart allowed the selection of certain dates so that a user could view the relative popularity of programming languages on that specific date, as well as a pause function.
 
 Note: Apologies for the poor grammar. I am currently very sleep-deprived.
