@@ -1,0 +1,9 @@
+http://www.puffpuffproject.com/languages.html
+
+The above site is a collection of a few really cool data visualizations that have to do with language history. There's a bit too much to cover on the site, from language birthplace, to language frequency, to language loanwords, and more, so I'm going to focus in on the loanwords, since I think that's the coolest part about the collection of visualizations.
+
+The loanwords vis covers each language in it's birth palce, with number of words loaned scaled to size on the chart/color mapped in a legend under the chart, with locations that have recieved words marked with a white dot. It is my favorite chart, but it is a little less comprehensive than the other visualizations on the site. The graph is interactive as well (if you mouse over the color legend under the chart, it shows flight lines displaying where each language has donated words to). I'd love to see the creators add additional graph interactivity so that I can mouse over different points and see which words were donated/recieved with the highest frequency instead of just viewing where words were donated to and from.
+
+Even though I'm really into maths/sciences, I've always been super into languages, which is why this vis is so intruiging to me. I speak English, a decent bit of Spanish, a tiny bit of Japanese, some Chinese (I'm currently learning more since I want to be fluent), and I eventually want to reach fluency in German as well. I think seeing the birthplace and "family trees" of each of these languages is really fascinating, and I'll definitely be revisitng this site in the future to epxlore it more in-depth.
+
+I highly recommend checking out the graphs on this site. They're really well put together, really pretty in a minimalistic sense, and fun to interact with. Thanks :)
