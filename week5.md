@@ -1,0 +1,3 @@
+I saw this data vis and thought it was pretty interesting, especially for right now. With all that is going on in the economy right now, it seems lots of people are hoping for change. Some examples are an increase in minimum wage or less hour work weeks, all in hopes to make living a little easier. This shows that for recent generations, income is skewed towards people making more money, and it is getting harder and harder for people making less money to live. There are a lot of factors that play into this which I am not really suited to talk about, but its definily an issue that I care about and something worth looking at.
+
+![image1](https://github.com/HolidayMB/reflections/blob/week5/dataaaaa.png)
