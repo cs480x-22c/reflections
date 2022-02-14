@@ -1,0 +1,7 @@
+[Link to visualization](https://whydocatsanddogs.com/)
+
+"Why do cats & dogs ..?" visualizes the most commonly searched terms asking about the behavior of cats and dogs. There are two separate visualizations for dogs and cats, both following the same style. There is a variety of bubbles laid out, with the word after the prompt "Why do dogs/cats" or "Why does my dog/cat" in the center of each bubble. Subsequent words in the search branch off from that main word inside each bubble. The data is taken from Google Trends.
+
+The visualization is extremely pleasing to look at. It has a great color palette and is fun to explore. The search bar feature allows you to convieniently search for terms like in a standard search engine. The tooltip that comes up when you mouse over a node offers a written view of it, and clicking on the node redirects you to a Google search with the inputted inquiry. 
+
+For exploratory purposes, the visualization is extremely effective. It would be interesting to see how the author could incorporate more expositive features, such as using color scales to furthur express how common a search term is. There are supplemental visualizations which do offer some more general data comparisons, but I would like to see how an integrated way of measuring the nodes against each other would look, beyond just the size of the bubbles.
