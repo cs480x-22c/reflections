@@ -1,0 +1,7 @@
+[Link to visualization](https://public.tableau.com/app/profile/brandon8775/viz/EPL202021MonthlyTeamsAnalysis_16109050407400/5GameFormGuide)
+
+This graphic was made in Tableau and depicts the form of Premier League teams over the 2020-21 season though a line graph. It takes the average number of points for a club over their last five matches and uses that to plot out their trend of success over the course of the season. The graphic does a good job at depicting form for individual teams. It is easy to follow the lines and get an intuitive sense of how each club performed. 
+
+However, it is a bit harder to interpret when there are more than three or four clubs being charted at once. There are only so many colors that can be used to distinguish the lines from each other. Many teams have very similar main colors and color schemes, so there end up being some clubs that are represented by a color they are not known for. In addition, many of the clubs clunk together in the middle fo the graph, making it hard to discern any meaningful trends in the data overall.
+
+There are some nice tools, like only displaying clubs who finished at a certain position in the table and displaying home and away form separately. Additionally, you can click on a club's graph or name in the legend to isolate their line, making it a lot easier to see. You can also filter through different dates in the season for a closer look at a particular period in the season. Overall, I think the visualization is a good attempt but could use some extra features for making the data clearer to see.
