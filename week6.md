@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dataisbeautiful/comments/swg89n/here_is_a_map_combining_the_worlds_shipping_lanes/
 https://i.redd.it/dd8khp7rzti81.png
 
 The above image is a vis from r/data_is_beautiful, which tracks the world's shipping lanes and flight paths as red and white lines. The graph itself is more asthetic than it is useful - that is, the vis is more artistic than functional. However, I still thought the graph was really neat largely due to its unique look. It's also worth noting that there are locations on the graph that lack tracking lines - primarily over and near Antarctica. I'm surprised there's no shortcut over the continent for North-South shipping, though I suppose it makes sense when considering where major export locations are as well as potential volatile weather outside of extablished paths.
