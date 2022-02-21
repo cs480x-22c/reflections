@@ -1,5 +1,4 @@
-![Baseball Data Visualizaitons]https://www.baseballdatascience.com/understanding-common-sabermetric-statistics/
-<br>
+![Baseball Data Visualizaitons](https://www.baseballdatascience.com/understanding-common-sabermetric-statistics/)
 I didn't choose any specific visualization from this website, but they go in depth on how several different statistics and different visualization methods for each one.
 I chose this vis because it ties directly into my final project, so it'll definitely be a good reference point. One visualization in particular caught my eye though:
 <br>
