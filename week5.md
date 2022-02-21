@@ -1,0 +1,5 @@
+Week 5 Reflection- Carley Gilmore
+
+For this week's reflection, I wanted to know more information about national parks and did a quick google search of data visualizations regarding overnight stays. My friends and I are planning on travelling to Death Valley soon, and we found a data viz project called "A night under the stars" from a quick Google Search. Here is a link to the data visualization: https://jordan-vincent.com/night-under-the-stars/
+
+The concentric circular mapping represents the traffic of people camping during different seasons of the year. Each color mapped represents a different type of accomodation: lodging, RV, tent, and backcountry. I thought this was super interesting and also useful to gauge when the most popular times are to go to different national parks. When I was looking at this with my friend who is knowledgable about the parks, he said that the North Cascades map makes sense because there is only summer camping and backcountry as it is one of the most dangerous parks.
