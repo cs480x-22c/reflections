@@ -1,4 +1,4 @@
-![miro](img/next-generation-satellites.jpeg)
+![miro](next-generation-satellites.jpeg)
 
 Link to the Interactive Version: https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/
 
