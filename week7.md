@@ -4,7 +4,7 @@ I think this way of visualizing data is really impactful. Without using numbers,
 
 Something I am not a fan of is the possibility of misleading people with bad scales. For example, for nuclear bombs, 1 symbol could indicate 500 bombs. If the two countries were off by only a couple additional weapons, or by 500, it would be shown with just 1 symbol. This can definitely be misleading.
 
-I appreciate that this visualization includes sources and authors as well. However, based on a comment, this is not just NATO military forces, it's also the combined military force of all NATO countries. This is of course different, and it's not mentioned in the poster.
+I appreciate that this visualization includes sources and authors as well. However, based on a comment, this is not just NATO military forces. This has also the combined military force of all NATO countries. This is of course different, and it's not mentioned in the poster.
 
 ![NATO vs Russia military](img/nato-russia.png)
 
