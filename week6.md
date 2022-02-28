@@ -1,0 +1,7 @@
+Site: https://projects.fivethirtyeight.com/redistricting-maps/#Compact
+
+<img width="1030" alt="Screen Shot 2022-02-21 at 12 37 30 PM" src="https://user-images.githubusercontent.com/33555592/155004125-364ef9cb-9481-416e-bc8e-b9643945546b.png">
+
+I really like this visualization because it helps the user explore various ideas on their own terms, with very clear explanations. Basically, to understand the impact gerrymandering has on the political system, users can select different scenarios to see how election results change. These scenarios are tied to actual goals, which the user can easily pick and choose between. While the visualization demonstrates "problem cases" where one party is unfairly favored, it also shows solutions: cases where there is a maximal number of competitive seats, or where citizens are arranged into geometric shapes. The color scheme is also well-done and very easy on the eyes (or, my non-colorblind eyes, at least).
+
+Critically, the data for this visualization is also available on GitHub. This means that future users, who want to iterate and improve upon FiveThirtyEight's work, or who want to experiment with using newer data, are able to put together similarly convincing visualizations themselves. Opening up data symbolizes a commitment to the community; it isn't just about getting clicks that lead to ad revenue, the visualization is trying to freely spread data to the world. Understnading that users will share the work means that the authors understand the social nature of the web today.

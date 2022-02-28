@@ -1,0 +1,7 @@
+# 1 Pixel Wealth
+
+Site: https://mkorostoff.github.io/1-pixel-wealth/
+
+I really like visualizations like these because they help put abstract concepts (here, that means large numbers) in context. A million is a lot, and a billion is even more, but it's easy as humans to just remember which one is larger than the other, and go on with our days since we're unlikely to interact with such large numbers regardless. Large numbers are hard, and it's sometimes hard to wrap my head around 1,000 times 1,000,000. Whatever, a million is large enough, so when multiplying a million by a thousand, the difference of *three orders of magnitude* isn't as apparent as it ought to be. 
+
+More importantly, 1 Pixel Wealth's interactive components are tied into a broader, societal argument. Simply gaining an appreciation for the difference between millions and billions might be interesting on its own, but so what? Explaining random statistics for the sake of explanation isn't worthwhile. However, here, not only does the viewer learn the ultimate purpose of the visualizaton, they're presented with multiple different sub-visualizations that further reinforce the key ideas surrounding wealth inequality. Especially when dealing with visualizations that take long to process and comprehend like this one, variation is key. And with snarky lines between wealth comparisons, going through 1 Pixel Wealth is somewhat entertaining as well.
