@@ -1,4 +1,4 @@
-# Reflection 7 - Wages vs Inflation
+# Reflection 7 - Browser Market-share
 
 ![](web-browsers.png)
 https://www.reddit.com/r/dataisbeautiful/comments/t1unxv/oc_desktop_browsers_market_share_1994_2021/
