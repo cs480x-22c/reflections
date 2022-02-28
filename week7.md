@@ -28,3 +28,20 @@ sense to its viewer. It is only readable if you understand the morality of light
 star wars. Being a fan of these movies increases the impact the visualization can have. I found this to be very unique among the 
 visualizations I had seen before.
 
+
+--------------------------------------------------------
+This is my refleciton for 2/28/22 still not sure if I am turning these in correctly.
+
+
+https://www.kirellbenzi.com/art/dark-side-light
+
+This data vizualization is representing every connection between every single character in the star-wars universe. I chose this 
+viz because of how entirely useless it is and yet still is very visually stunning and can have meaning through that. If one were to
+attempt to read this viz with the intent to discren any real data, they would find themselves hard pressed to figure out what is going
+on. Rather this visualizaiton finds its value through how one might interpret the piece as art. With a general grasp of star-wars
+being good versus evil you could find real value in the  art displayed here. Rather than overwhelming an onlooker with too much detail,
+this visualization achieves the effect of being able to tell the overall story of light and dark conections throughout the whole verse.
+This is the type of data-visualization that, while having the technical knowledge to complete, is entirely impossible to make without
+a creative mind. This breaks most of the rules layed out normally and yet still achieves its goal. 
+
+
