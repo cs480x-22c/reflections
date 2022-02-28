@@ -1,0 +1,3 @@
+https://www.reddit.com/r/dataisbeautiful/comments/t2ssef/oc_i_visualized_the_telemetry_data_from_the_last/
+
+I found this on data is beautiful and thought that it was really cool. It's a replay of the telemetry data during an F1 race, so you can see each driver's speed, throttle, and breaking as they go around the track. I especially like how similar each driver is because they are driving as close to optimal so I would imagine that would mean they would be doing the same thing unless passing or driving defensively. It also shows some extra live info like RPM, gear, and if they have DRS on or off which is cool too. I wonder how you even get this data, seems like an interesting thing to be publicly available.
