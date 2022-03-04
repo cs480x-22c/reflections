@@ -1,0 +1,3 @@
+Week 7 Reflection- Carley Gilmore
+
+For this weeks reflection, I found a really neat visualization on Star Wars.  It is a network graph that tracks the connections between the over 20,000 characters that exist in the Star Wars universe. The nodes are characters and the edges are the connections among related nodes. The blue edges represent the light  side, red represents the dark side, and  yellow represents the criminals and bounty hunters. The result is a very pretty image. The creator specializes in Data Art and Data Science and the link to the visualization is here: https://www.kirellbenzi.com/art/dark-side-light
