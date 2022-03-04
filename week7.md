@@ -1,0 +1,6 @@
+# :book: How Do Degree Classes Vary By Graduates' Ethnicity? :book:
+[Link To Visualization Post](https://plotpanel.com/explore/view/4bcc7d55-6c92-4775-9749-7ba8740f17d4)
+
+Week seven is a cool type of visual that lets us have an animated view as it loads in data to each catagory. It uses data from the Higher Education Statistics Agency in the UK, which has all data from all countries for the academic year of 2019/2020. The American version of a degree class is a GPA, which I had to look up because who the heck calls it that. Before this vis, I've never seen or used PlotPanel before. I think the animation is cool, however it is very distracting considering all the little squares and bright colors flying around. There's also the fact that the data crosses into a category on screen, which makes it even more distracting instead of it moving in a straight line. If I was to sugesst any edits, it would be to change the color somehow to make it more contrasting to the black text, because when you watch it you can see the plots on the right get filled up and harder to read on the side, which is the main point of the vis. 
+
+![data](https://github.com/alexiscaira/reflections/blob/master/Screen%20Shot%202022-02-27%20at%2011.57.55%20PM.png?raw=true)
