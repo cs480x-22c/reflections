@@ -13,7 +13,7 @@ There are a couple ways this visualization could be improved:
   - Only commonly used methods are shown. 
   - That being said, adding too many methods would make the visualization cluttered and hard to use.
 - Clearer communication of the chance of becoming pregnant
-  - When first looking at the chart, I assumed the graphic on the right side showed the likelihood of becoming pregnant after having intercourse once. But the note for comparison to unprotected sex instead uses the annual chance of becoming pregnant. That implies that the graphic is also showing the annual chance of becoming pregnant, but the visualization doesn't explicitly state that this is the case.
+  - When first looking at the chart, I assumed the graphic on the right side showed the likelihood of becoming pregnant after having intercourse once. But the note for comparison to unprotected sex instead uses the annual chance of becoming pregnant. That implies that the numbers in the graphic are also showing the annual chance of becoming pregnant, but the visualization doesn't explicitly state that this is the case.
 
 ---
 ![vis](/images/reflection-birth-control.jpg)
