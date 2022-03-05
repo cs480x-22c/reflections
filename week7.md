@@ -1,4 +1,4 @@
-![image](screenshot .png)
+![image](Screenshot .png)
 
 This visualization communicates the number of refugees and fleeing Ukraine and their destinations.
 The number of refugees and their destination is communicated by the arrows, with their width representing the number and their location denoting their destination.
