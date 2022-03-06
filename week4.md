@@ -7,6 +7,7 @@ It would make sense to exclude these companies if the visualization is meant onl
 Independent companies like Valve could be incorporated by adding a sidebar with the logos of independent companies.
 
 ---
+
 The original file (https://i.redd.it/3ewqptyuegk81.png) is too big to include in a .md file, so the image below is a smaller preview.
 ![Vis](/images/video_game_publishers_vis_smol.webp)
 Source
