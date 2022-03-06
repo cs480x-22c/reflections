@@ -1,3 +1,6 @@
+![weightgurus1](image.png)
+![weightgurus2](image(1).png)
+
 I'm doing my first reflection of the app Weight Gurus which syncs with my scale.
 The scale uses impedance to measure several biometrics statistics, which can be viewed along with weight in a smoothed line graph.
 The two metrics I have chosen to look at the graphs for are body fat percentage and muscle mass.
