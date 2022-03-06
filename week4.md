@@ -6,9 +6,9 @@ The visualization also isn't complete. A particularly notable exclusion is Valve
 It would make sense to exclude these companies if the visualization is meant only to include video game companies that are owned by other video game companies, but even so, Valve is important enough that I think it should be included regardless.
 Independent companies like Valve could be incorporated by adding a sidebar with the logos of independent companies.
 
----
-
 The original file (https://i.redd.it/3ewqptyuegk81.png) is too big to include in a .md file, so the image below is a smaller preview.
+
+---
 ![Vis](/images/video_game_publishers_vis_smol.webp)
 Source
 ---
