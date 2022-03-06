@@ -1,0 +1,5 @@
+https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fgraphics%2F2020%2Fworld%2Fcorona-simulator%2F&data=04%7C01%7Clgarfinkel%40wpi.edu%7C7017abfa45004c17ac7808d9ff8ac449%7C589c76f5ca1541f9884b55ec15a0672a%7C0%7C0%7C637821793739460149%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Hwzt2HEVpE3jrTDn82zSilwCUYx7oAUea9oKPlH4XVc%3D&reserved=0
+
+Visualizations such as this one were very popular at the beginning of the pandemic, and rightfully so. They very effectively explain the risks of close contact exposure due to COVID. The color changing 
+dots when they touch eachother very clearly displays how fast the virus could spread. And the image being animated helps to prove the point, as it is physically showing how many people would be infected
+from one single person. Overall, I think it is effective visualizations like these that encouraged mask wearing throughout the pandemic, especially in the early months.
