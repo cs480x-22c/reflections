@@ -13,4 +13,4 @@ While this is interesting and makes sense for a person who primarily experiences
 
 Source
 ---
-https://www.reddit.com/r/dataisbeautiful/comments/t52qxa/oc_i_updated_our_famous_password_table_for_2022/
+https://www.reddit.com/r/dataisbeautiful/comments/t3jjft/oc_a_history_of_my_fullsemiromantic_relationships/
